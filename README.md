@@ -14,7 +14,21 @@
 
 ---
 
-## 🔒 Privacy Policy
+## 📷 Screenshot  
+
+![Android Shortcut Activity](https://raw.githubusercontent.com/ONEThousandandONE-1001/AXM-SHORTCUT/refs/heads/main/Picsart_25-02-24_11-22-24-627.jpg)
+
+---
+
+## 📥 Download & Install  
+
+📥 **[Download APK](https://raw.githubusercontent.com/ONEThousandandONE-1001/AXM-SHORTCUT/refs/heads/main/AXM1001%20Quick%20settings.apk)**  
+📥 **[GitHub Releases](https://github.com/onethousandandone-1001/)**  
+📥 **[Google Play Store (Coming Soon)](#)**  
+
+---
+
+## 🔒 Privacy Policy  
 
 We are committed to protecting your **privacy** and ensuring the security of your data.  
 This app may collect necessary information to enhance functionality but does **not** store or share personal data.
@@ -28,29 +42,20 @@ For more details, check our **[Privacy Policy](#)**.
 
 ---
 
-## 📥 Download & Install
+## 📬 Contact & Support  
 
-Get the latest version of **Android Shortcut Activity** from:
+For any **questions, feedback, or support**, feel free to reach out:  
 
-📥 **[GitHub Releases](https://github.com/onethousandandone-1001/)**  
-📥 **[Google Play Store (Coming Soon)](#)**  
-
----
-
-## 📬 Contact & Support
-
-For any **questions, feedback, or support**, feel free to reach out:
-
-- **📧 Email:** [arafathossen3002@gmail.com](mailto:arafathossen3002@gmail.com)
-- **🌍 Facebook:** [Click Here](https://www.facebook.com/share/1A2Sa8ti6E/?mibextid=qi2Omg)
-- **📢 Telegram Group 1:** [Join Now](https://t.me/+Ynj_qjWuOyVjY2I1)
-- **📢 Telegram Group 2:** [Join Now](https://t.me/+CSqZP7IKTu85OThl)
-- **🐦 X (Twitter):** [Follow Us](https://x.com/and_thousa84160?t=piH781yTtrmUHNm1e6FwaA&s=09)
-- **💻 GitHub:** [ONE Thousand and ONE](https://github.com/onethousandandone-1001)
+- **📧 Email:** [arafathossen3002@gmail.com](mailto:arafathossen3002@gmail.com)  
+- **🌍 Facebook:** [Click Here](https://www.facebook.com/share/1A2Sa8ti6E/?mibextid=qi2Omg)  
+- **📢 Telegram Group 1:** [Join Now](https://t.me/+Ynj_qjWuOyVjY2I1)  
+- **📢 Telegram Group 2:** [Join Now](https://t.me/+CSqZP7IKTu85OThl)  
+- **🐦 X (Twitter):** [Follow Us](https://x.com/and_thousa84160?t=piH781yTtrmUHNm1e6FwaA&s=09)  
+- **💻 GitHub:** [ONE Thousand and ONE](https://github.com/onethousandandone-1001)  
 
 ---
 
-## 🌟 About ONE Thousand and ONE
+## 🌟 About ONE Thousand and ONE  
 
 **ONE Thousand and ONE** is a cybersecurity and web hacking team working on **ethical hacking**, **security research**, and **open-source projects**.  
 We are committed to **building innovative and secure applications** for everyone. 💻🔒  
